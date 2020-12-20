@@ -1,4 +1,5 @@
-from containers import container
+from serial import *
+from containers import *
 from colours import *
 
 def random_function(number):
@@ -13,13 +14,24 @@ def setup():
     global argument
 
     size(800, 800)
-    root = container(800, 800)
+    root = Container(800, 800)
     root.setting('WINDOW', BACKGROUND_COLOUR=SILVER)
     
     argument = [2]
     
     button1_coords = (50,50)
     button1_size = (125, 25)
+    
+    page_arg = [1]
+    
+    next_coords = (520,680)
+    next_size = (80,80)
+    
+    page_coords = (360,680)
+    page_size = (80,80)
+    
+    #adding items
+    root.add_button('next', '>', next_coords, next_size)
     
     root.add_button('button_1', 'Hello World',  button1_coords ,  button1_size, random_function, argument, random_function, [52])
     root.add_button('button_2', '^', (25,25), (20, 20))
@@ -29,7 +41,7 @@ def setup():
     root.add_entry('entry_1', (400,200), (125, 25), Readonly)
     
     root.setting('label_1', BOX=True, COLOUR={'TEXT':YELLOW, 'BOX':BLACK}, FONT_SIZE=20)
-    root.setting('button_1', COLOUR={'NORMAL':WHITE, 'TEXT': PURPLE}, CLICK={'BOX':3, 'TEXT':1})
+    root.setting('button_1', COLOUR={'NORMAL':WHITE, 'TEXT': PURPLE, 'LEFT':RED}, CLICK={'BOX':3, 'TEXT':1})
     root.setting('button_1', POSITION=(1,1))
     
     argument[0] = 3

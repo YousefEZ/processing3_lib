@@ -1,0 +1,660 @@
+Calibration values: Thermometer 305.9K Tachometer 199.4 pH 3.1 acid added 850.5ul base added 2.8ul
+Calibration values: Thermometer 306.9K Tachometer 219.4 pH 3.1 acid added 849.5ul base added 7.8ul
+Calibration values: Thermometer 306.7K Tachometer 228.3 pH 3.1 acid added 849.9ul base added 9.7ul
+Calibration values: Thermometer 306.6K Tachometer 263.3 pH 3.1 acid added 849.9ul base added 14.1ul
+Calibration values: Thermometer 306.6K Tachometer 280.1 pH 3.1 acid added 851.6ul base added 19.2ul
+Calibration values: Thermometer 306.6K Tachometer 292.9 pH 3.1 acid added 852.0ul base added 21.4ul
+Calibration values: Thermometer 306.5K Tachometer 316.1 pH 3.1 acid added 850.5ul base added 24.1ul
+Calibration values: Thermometer 306.9K Tachometer 328.1 pH 3.1 acid added 852.8ul base added 29.7ul
+Calibration values: Thermometer 307.0K Tachometer 354.1 pH 3.1 acid added 850.7ul base added 33.6ul
+Calibration values: Thermometer 306.5K Tachometer 366.9 pH 3.1 acid added 850.7ul base added 37.2ul
+Calibration values: Thermometer 307.0K Tachometer 387.0 pH 3.1 acid added 851.0ul base added 40.3ul
+Calibration values: Thermometer 307.0K Tachometer 406.6 pH 3.1 acid added 850.4ul base added 44.4ul
+Calibration values: Thermometer 306.6K Tachometer 412.2 pH 3.1 acid added 850.7ul base added 49.5ul
+Calibration values: Thermometer 307.1K Tachometer 406.0 pH 3.1 acid added 850.6ul base added 51.0ul
+Calibration values: Thermometer 307.0K Tachometer 443.8 pH 3.1 acid added 851.4ul base added 55.2ul
+Calibration values: Thermometer 306.3K Tachometer 411.6 pH 3.1 acid added 852.4ul base added 58.4ul
+Calibration values: Thermometer 307.4K Tachometer 411.0 pH 3.1 acid added 851.5ul base added 62.6ul
+Calibration values: Thermometer 306.9K Tachometer 408.5 pH 3.1 acid added 850.0ul base added 65.4ul
+Calibration values: Thermometer 306.7K Tachometer 432.0 pH 3.1 acid added 849.2ul base added 68.2ul
+Calibration values: Thermometer 307.1K Tachometer 428.8 pH 3.1 acid added 851.3ul base added 73.0ul
+Calibration values: Thermometer 306.5K Tachometer 422.9 pH 3.1 acid added 851.2ul base added 76.6ul
+Calibration values: Thermometer 307.1K Tachometer 437.4 pH 3.1 acid added 853.4ul base added 79.7ul
+Calibration values: Thermometer 306.2K Tachometer 421.4 pH 3.1 acid added 851.6ul base added 85.6ul
+Calibration values: Thermometer 306.6K Tachometer 406.3 pH 3.1 acid added 850.1ul base added 86.5ul
+Calibration values: Thermometer 306.6K Tachometer 421.2 pH 3.1 acid added 849.3ul base added 92.1ul
+Calibration values: Thermometer 305.9K Tachometer 436.3 pH 3.1 acid added 852.3ul base added 95.4ul
+Calibration values: Thermometer 306.4K Tachometer 411.5 pH 3.1 acid added 849.9ul base added 98.3ul
+Calibration values: Thermometer 306.9K Tachometer 437.7 pH 3.1 acid added 851.8ul base added 101.4ul
+Calibration values: Thermometer 306.7K Tachometer 427.7 pH 3.1 acid added 852.1ul base added 105.2ul
+Calibration values: Thermometer 311.2K Tachometer 421.9 pH 3.1 acid added 851.0ul base added 110.1ul
+Calibration values: Thermometer 310.2K Tachometer 427.8 pH 3.1 acid added 852.6ul base added 113.7ul
+Calibration values: Thermometer 309.3K Tachometer 435.4 pH 3.1 acid added 851.9ul base added 119.3ul
+Calibration values: Thermometer 309.3K Tachometer 418.1 pH 3.1 acid added 850.4ul base added 121.3ul
+Calibration values: Thermometer 308.6K Tachometer 419.9 pH 3.1 acid added 852.0ul base added 124.2ul
+Calibration values: Thermometer 308.2K Tachometer 427.7 pH 3.1 acid added 850.7ul base added 127.8ul
+Calibration values: Thermometer 307.2K Tachometer 423.5 pH 3.2 acid added 849.8ul base added 131.8ul
+Calibration values: Thermometer 307.3K Tachometer 431.7 pH 3.1 acid added 849.7ul base added 133.4ul
+Calibration values: Thermometer 306.9K Tachometer 433.9 pH 3.2 acid added 850.7ul base added 139.4ul
+Calibration values: Thermometer 307.6K Tachometer 430.2 pH 3.1 acid added 851.5ul base added 142.8ul
+Calibration values: Thermometer 306.8K Tachometer 415.1 pH 3.1 acid added 851.0ul base added 147.4ul
+Calibration values: Thermometer 306.8K Tachometer 434.6 pH 3.2 acid added 852.2ul base added 150.7ul
+Calibration values: Thermometer 307.1K Tachometer 439.0 pH 3.2 acid added 853.0ul base added 152.3ul
+Calibration values: Thermometer 311.0K Tachometer 416.2 pH 3.2 acid added 851.7ul base added 158.5ul
+Calibration values: Thermometer 310.3K Tachometer 436.0 pH 3.2 acid added 851.0ul base added 160.9ul
+Calibration values: Thermometer 309.2K Tachometer 423.4 pH 3.2 acid added 852.4ul base added 164.4ul
+Calibration values: Thermometer 308.9K Tachometer 436.8 pH 3.2 acid added 850.4ul base added 167.2ul
+Calibration values: Thermometer 308.0K Tachometer 413.5 pH 3.2 acid added 850.3ul base added 171.8ul
+Calibration values: Thermometer 307.3K Tachometer 427.3 pH 3.2 acid added 852.3ul base added 175.9ul
+Calibration values: Thermometer 307.2K Tachometer 429.5 pH 3.2 acid added 850.7ul base added 179.5ul
+Calibration values: Thermometer 306.9K Tachometer 409.0 pH 3.2 acid added 851.1ul base added 180.9ul
+Calibration values: Thermometer 307.3K Tachometer 419.7 pH 3.2 acid added 850.3ul base added 186.3ul
+Calibration values: Thermometer 306.2K Tachometer 422.3 pH 3.2 acid added 851.1ul base added 190.7ul
+Calibration values: Thermometer 306.8K Tachometer 422.8 pH 3.2 acid added 848.6ul base added 193.8ul
+Calibration values: Thermometer 307.5K Tachometer 412.6 pH 3.2 acid added 851.2ul base added 196.5ul
+Calibration values: Thermometer 306.9K Tachometer 418.8 pH 3.2 acid added 848.6ul base added 200.6ul
+Calibration values: Thermometer 311.0K Tachometer 396.1 pH 3.2 acid added 850.6ul base added 204.7ul
+Calibration values: Thermometer 310.1K Tachometer 414.5 pH 3.2 acid added 851.0ul base added 208.9ul
+Calibration values: Thermometer 309.8K Tachometer 428.7 pH 3.2 acid added 850.3ul base added 213.6ul
+Calibration values: Thermometer 308.8K Tachometer 412.2 pH 3.2 acid added 848.9ul base added 215.1ul
+Calibration values: Thermometer 308.7K Tachometer 416.4 pH 3.2 acid added 850.6ul base added 220.7ul
+Calibration values: Thermometer 308.1K Tachometer 404.1 pH 3.2 acid added 851.7ul base added 224.5ul
+Calibration values: Thermometer 307.6K Tachometer 424.1 pH 3.2 acid added 850.4ul base added 228.0ul
+Calibration values: Thermometer 307.7K Tachometer 413.6 pH 3.2 acid added 851.5ul base added 231.1ul
+Calibration values: Thermometer 307.3K Tachometer 420.4 pH 3.2 acid added 851.0ul base added 234.6ul
+Calibration values: Thermometer 306.2K Tachometer 444.1 pH 3.2 acid added 850.6ul base added 238.0ul
+Calibration values: Thermometer 306.7K Tachometer 427.5 pH 3.2 acid added 851.9ul base added 241.7ul
+Calibration values: Thermometer 306.8K Tachometer 424.0 pH 3.2 acid added 851.5ul base added 244.9ul
+Calibration values: Thermometer 306.5K Tachometer 430.6 pH 3.2 acid added 850.2ul base added 249.3ul
+Calibration values: Thermometer 306.8K Tachometer 426.9 pH 3.2 acid added 850.9ul base added 252.4ul
+Calibration values: Thermometer 306.8K Tachometer 410.2 pH 3.2 acid added 850.8ul base added 255.9ul
+Calibration values: Thermometer 307.3K Tachometer 422.5 pH 3.2 acid added 850.9ul base added 258.9ul
+Calibration values: Thermometer 305.5K Tachometer 436.8 pH 3.2 acid added 850.8ul base added 264.4ul
+Calibration values: Thermometer 306.5K Tachometer 416.1 pH 3.2 acid added 850.7ul base added 267.4ul
+Calibration values: Thermometer 307.3K Tachometer 422.0 pH 3.2 acid added 851.1ul base added 271.8ul
+Calibration values: Thermometer 306.9K Tachometer 438.6 pH 3.3 acid added 851.0ul base added 274.0ul
+Calibration values: Thermometer 307.1K Tachometer 424.7 pH 3.2 acid added 850.7ul base added 280.2ul
+Calibration values: Thermometer 307.3K Tachometer 426.5 pH 3.3 acid added 851.1ul base added 281.9ul
+Calibration values: Thermometer 306.4K Tachometer 434.1 pH 3.3 acid added 850.2ul base added 284.8ul
+Calibration values: Thermometer 306.9K Tachometer 437.0 pH 3.3 acid added 852.2ul base added 288.8ul
+Calibration values: Thermometer 306.3K Tachometer 406.4 pH 3.3 acid added 851.1ul base added 293.2ul
+Calibration values: Thermometer 306.7K Tachometer 427.9 pH 3.3 acid added 850.0ul base added 297.0ul
+Calibration values: Thermometer 307.2K Tachometer 421.2 pH 3.3 acid added 851.2ul base added 299.6ul
+Calibration values: Thermometer 306.7K Tachometer 419.6 pH 3.3 acid added 850.8ul base added 305.2ul
+Calibration values: Thermometer 306.7K Tachometer 419.6 pH 3.3 acid added 849.6ul base added 308.4ul
+Calibration values: Thermometer 307.1K Tachometer 428.3 pH 3.3 acid added 849.3ul base added 313.0ul
+Calibration values: Thermometer 306.8K Tachometer 433.2 pH 3.3 acid added 848.9ul base added 313.7ul
+Calibration values: Thermometer 306.3K Tachometer 424.3 pH 3.3 acid added 852.9ul base added 318.1ul
+Calibration values: Thermometer 306.7K Tachometer 429.0 pH 3.3 acid added 849.9ul base added 321.9ul
+Calibration values: Thermometer 306.5K Tachometer 429.8 pH 3.3 acid added 852.1ul base added 326.9ul
+Calibration values: Thermometer 307.1K Tachometer 416.9 pH 3.3 acid added 851.3ul base added 329.4ul
+Calibration values: Thermometer 306.9K Tachometer 435.6 pH 3.3 acid added 850.5ul base added 333.3ul
+Calibration values: Thermometer 306.7K Tachometer 427.2 pH 3.3 acid added 850.0ul base added 335.0ul
+Calibration values: Thermometer 307.3K Tachometer 421.5 pH 3.3 acid added 852.8ul base added 341.7ul
+Calibration values: Thermometer 307.0K Tachometer 431.4 pH 3.3 acid added 849.7ul base added 342.2ul
+Calibration values: Thermometer 306.7K Tachometer 432.6 pH 3.3 acid added 850.0ul base added 347.3ul
+Calibration values: Thermometer 306.6K Tachometer 436.1 pH 3.3 acid added 850.2ul base added 350.8ul
+Calibration values: Thermometer 306.5K Tachometer 407.4 pH 3.3 acid added 851.0ul base added 353.9ul
+Calibration values: Thermometer 306.9K Tachometer 422.5 pH 3.3 acid added 850.6ul base added 358.6ul
+Calibration values: Thermometer 306.8K Tachometer 410.2 pH 3.3 acid added 851.0ul base added 361.6ul
+Calibration values: Thermometer 307.0K Tachometer 422.9 pH 3.3 acid added 850.8ul base added 364.8ul
+Calibration values: Thermometer 306.3K Tachometer 419.3 pH 3.3 acid added 850.5ul base added 370.8ul
+Calibration values: Thermometer 306.4K Tachometer 428.8 pH 3.3 acid added 852.1ul base added 372.6ul
+Calibration values: Thermometer 307.0K Tachometer 415.0 pH 3.3 acid added 852.2ul base added 378.5ul
+Calibration values: Thermometer 306.5K Tachometer 419.4 pH 3.3 acid added 850.6ul base added 381.2ul
+Calibration values: Thermometer 306.2K Tachometer 432.0 pH 3.3 acid added 851.8ul base added 385.0ul
+Calibration values: Thermometer 306.9K Tachometer 413.6 pH 3.4 acid added 851.8ul base added 388.3ul
+Calibration values: Thermometer 306.9K Tachometer 424.1 pH 3.3 acid added 850.5ul base added 390.9ul
+Calibration values: Thermometer 306.6K Tachometer 439.7 pH 3.4 acid added 853.2ul base added 394.2ul
+Calibration values: Thermometer 306.7K Tachometer 425.5 pH 3.3 acid added 850.0ul base added 400.3ul
+Calibration values: Thermometer 306.9K Tachometer 410.3 pH 3.3 acid added 849.6ul base added 400.7ul
+Calibration values: Thermometer 306.9K Tachometer 425.0 pH 3.4 acid added 851.3ul base added 406.3ul
+Calibration values: Thermometer 306.2K Tachometer 422.4 pH 3.4 acid added 852.1ul base added 411.3ul
+Calibration values: Thermometer 307.0K Tachometer 420.5 pH 3.4 acid added 851.8ul base added 413.8ul
+Calibration values: Thermometer 307.4K Tachometer 420.8 pH 3.4 acid added 850.8ul base added 416.8ul
+Calibration values: Thermometer 306.9K Tachometer 416.5 pH 3.4 acid added 850.2ul base added 421.7ul
+Calibration values: Thermometer 306.8K Tachometer 431.2 pH 3.4 acid added 851.0ul base added 425.3ul
+Calibration values: Thermometer 307.0K Tachometer 416.4 pH 3.4 acid added 851.6ul base added 427.2ul
+Calibration values: Thermometer 306.4K Tachometer 424.0 pH 3.4 acid added 852.5ul base added 430.8ul
+Calibration values: Thermometer 307.3K Tachometer 431.9 pH 3.4 acid added 852.4ul base added 435.1ul
+Calibration values: Thermometer 306.5K Tachometer 431.0 pH 3.4 acid added 849.5ul base added 439.7ul
+Calibration values: Thermometer 306.7K Tachometer 418.3 pH 3.4 acid added 851.2ul base added 442.8ul
+Calibration values: Thermometer 306.9K Tachometer 433.0 pH 3.4 acid added 851.3ul base added 446.3ul
+Calibration values: Thermometer 311.7K Tachometer 421.8 pH 3.4 acid added 849.5ul base added 450.6ul
+Calibration values: Thermometer 310.8K Tachometer 408.4 pH 3.4 acid added 847.9ul base added 454.2ul
+Calibration values: Thermometer 310.1K Tachometer 440.1 pH 3.4 acid added 850.1ul base added 457.5ul
+Calibration values: Thermometer 309.1K Tachometer 430.0 pH 3.4 acid added 850.1ul base added 461.5ul
+Calibration values: Thermometer 308.6K Tachometer 424.1 pH 3.4 acid added 851.9ul base added 464.7ul
+Calibration values: Thermometer 308.4K Tachometer 424.9 pH 3.4 acid added 851.4ul base added 467.8ul
+Calibration values: Thermometer 307.0K Tachometer 436.8 pH 3.4 acid added 851.7ul base added 474.0ul
+Calibration values: Thermometer 307.1K Tachometer 408.4 pH 3.4 acid added 851.4ul base added 476.4ul
+Calibration values: Thermometer 307.3K Tachometer 434.5 pH 3.4 acid added 850.7ul base added 478.1ul
+Calibration values: Thermometer 306.5K Tachometer 416.1 pH 3.4 acid added 848.9ul base added 483.2ul
+Calibration values: Thermometer 307.0K Tachometer 407.7 pH 3.4 acid added 849.6ul base added 488.5ul
+Calibration values: Thermometer 306.6K Tachometer 423.2 pH 3.4 acid added 852.6ul base added 491.6ul
+Calibration values: Thermometer 307.5K Tachometer 421.7 pH 3.5 acid added 851.2ul base added 493.8ul
+Calibration values: Thermometer 306.6K Tachometer 423.6 pH 3.5 acid added 851.2ul base added 496.8ul
+Calibration values: Thermometer 306.6K Tachometer 426.0 pH 3.5 acid added 849.6ul base added 501.0ul
+Calibration values: Thermometer 306.5K Tachometer 415.6 pH 3.5 acid added 849.7ul base added 505.3ul
+Calibration values: Thermometer 306.5K Tachometer 418.3 pH 3.5 acid added 850.2ul base added 508.8ul
+Calibration values: Thermometer 307.1K Tachometer 419.5 pH 3.5 acid added 850.4ul base added 510.5ul
+Calibration values: Thermometer 307.2K Tachometer 402.2 pH 3.5 acid added 851.5ul base added 516.4ul
+Calibration values: Thermometer 307.0K Tachometer 413.8 pH 3.5 acid added 850.4ul base added 518.4ul
+Calibration values: Thermometer 306.7K Tachometer 411.3 pH 3.5 acid added 852.3ul base added 522.8ul
+Calibration values: Thermometer 306.6K Tachometer 409.5 pH 3.5 acid added 852.2ul base added 527.1ul
+Calibration values: Thermometer 306.8K Tachometer 432.4 pH 3.5 acid added 851.2ul base added 531.3ul
+Calibration values: Thermometer 306.7K Tachometer 409.2 pH 3.5 acid added 849.6ul base added 534.5ul
+Calibration values: Thermometer 306.8K Tachometer 409.9 pH 3.5 acid added 852.2ul base added 537.9ul
+Calibration values: Thermometer 306.5K Tachometer 421.6 pH 3.5 acid added 849.8ul base added 540.8ul
+Calibration values: Thermometer 306.7K Tachometer 436.5 pH 3.5 acid added 850.2ul base added 546.1ul
+Calibration values: Thermometer 306.6K Tachometer 423.3 pH 3.5 acid added 851.0ul base added 548.3ul
+Calibration values: Thermometer 306.5K Tachometer 432.6 pH 3.5 acid added 852.5ul base added 552.1ul
+Calibration values: Thermometer 306.7K Tachometer 436.2 pH 3.5 acid added 851.3ul base added 556.5ul
+Calibration values: Thermometer 307.4K Tachometer 415.7 pH 3.5 acid added 849.7ul base added 558.4ul
+Calibration values: Thermometer 306.6K Tachometer 432.9 pH 3.6 acid added 849.6ul base added 562.1ul
+Calibration values: Thermometer 307.0K Tachometer 426.4 pH 3.6 acid added 850.5ul base added 567.0ul
+Calibration values: Thermometer 306.2K Tachometer 426.1 pH 3.6 acid added 850.6ul base added 571.7ul
+Calibration values: Thermometer 307.0K Tachometer 439.6 pH 3.5 acid added 851.2ul base added 576.2ul
+Calibration values: Thermometer 306.8K Tachometer 420.7 pH 3.6 acid added 850.0ul base added 577.2ul
+Calibration values: Thermometer 306.3K Tachometer 432.3 pH 3.6 acid added 849.5ul base added 582.0ul
+Calibration values: Thermometer 306.9K Tachometer 417.8 pH 3.6 acid added 850.9ul base added 586.1ul
+Calibration values: Thermometer 307.1K Tachometer 426.4 pH 3.6 acid added 852.6ul base added 587.6ul
+Calibration values: Thermometer 306.9K Tachometer 433.0 pH 3.6 acid added 851.2ul base added 591.4ul
+Calibration values: Thermometer 307.0K Tachometer 412.7 pH 3.6 acid added 852.1ul base added 597.3ul
+Calibration values: Thermometer 306.8K Tachometer 419.6 pH 3.6 acid added 849.8ul base added 598.8ul
+Calibration values: Thermometer 306.8K Tachometer 419.9 pH 3.6 acid added 850.3ul base added 602.3ul
+Calibration values: Thermometer 306.8K Tachometer 430.1 pH 3.6 acid added 852.6ul base added 607.0ul
+Calibration values: Thermometer 307.1K Tachometer 421.3 pH 3.6 acid added 850.0ul base added 611.6ul
+Calibration values: Thermometer 306.7K Tachometer 422.8 pH 3.6 acid added 849.9ul base added 611.0ul
+Calibration values: Thermometer 307.2K Tachometer 428.0 pH 3.6 acid added 850.4ul base added 618.7ul
+Calibration values: Thermometer 306.8K Tachometer 418.7 pH 3.6 acid added 851.4ul base added 620.2ul
+Calibration values: Thermometer 307.5K Tachometer 425.1 pH 3.6 acid added 850.3ul base added 626.6ul
+Calibration values: Thermometer 306.8K Tachometer 434.3 pH 3.7 acid added 850.3ul base added 629.7ul
+Calibration values: Thermometer 307.3K Tachometer 417.8 pH 3.7 acid added 851.2ul base added 633.6ul
+Calibration values: Thermometer 306.7K Tachometer 428.0 pH 3.7 acid added 852.0ul base added 637.2ul
+Calibration values: Thermometer 306.9K Tachometer 425.7 pH 3.7 acid added 850.4ul base added 639.8ul
+Calibration values: Thermometer 307.1K Tachometer 412.9 pH 3.7 acid added 849.8ul base added 642.8ul
+Calibration values: Thermometer 307.3K Tachometer 407.8 pH 3.7 acid added 852.4ul base added 647.3ul
+Calibration values: Thermometer 306.8K Tachometer 427.5 pH 3.7 acid added 850.7ul base added 652.5ul
+Calibration values: Thermometer 311.1K Tachometer 430.7 pH 3.7 acid added 851.5ul base added 654.9ul
+Calibration values: Thermometer 310.7K Tachometer 418.5 pH 3.7 acid added 851.2ul base added 659.4ul
+Calibration values: Thermometer 310.0K Tachometer 416.9 pH 3.7 acid added 850.8ul base added 661.8ul
+Calibration values: Thermometer 309.4K Tachometer 416.0 pH 3.8 acid added 851.2ul base added 667.0ul
+Calibration values: Thermometer 308.6K Tachometer 420.4 pH 3.7 acid added 848.4ul base added 666.5ul
+Calibration values: Thermometer 308.1K Tachometer 405.7 pH 3.8 acid added 849.4ul base added 670.5ul
+Calibration values: Thermometer 307.6K Tachometer 427.7 pH 3.8 acid added 851.9ul base added 678.0ul
+Calibration values: Thermometer 306.8K Tachometer 399.1 pH 3.8 acid added 850.5ul base added 680.3ul
+Calibration values: Thermometer 311.4K Tachometer 423.3 pH 3.8 acid added 850.8ul base added 683.3ul
+Calibration values: Thermometer 311.0K Tachometer 434.7 pH 3.8 acid added 851.3ul base added 685.8ul
+Calibration values: Thermometer 309.8K Tachometer 429.8 pH 3.8 acid added 850.0ul base added 691.4ul
+Calibration values: Thermometer 309.1K Tachometer 424.1 pH 3.8 acid added 851.4ul base added 694.5ul
+Calibration values: Thermometer 308.8K Tachometer 426.2 pH 3.8 acid added 852.4ul base added 699.1ul
+Calibration values: Thermometer 308.2K Tachometer 431.4 pH 3.8 acid added 849.1ul base added 701.3ul
+Calibration values: Thermometer 307.6K Tachometer 410.6 pH 3.8 acid added 850.0ul base added 706.4ul
+Calibration values: Thermometer 307.4K Tachometer 424.6 pH 3.9 acid added 850.3ul base added 709.8ul
+Calibration values: Thermometer 306.9K Tachometer 418.5 pH 3.9 acid added 849.8ul base added 714.3ul
+Calibration values: Thermometer 307.5K Tachometer 412.1 pH 3.9 acid added 849.9ul base added 718.0ul
+Calibration values: Thermometer 311.0K Tachometer 415.3 pH 3.9 acid added 852.5ul base added 719.4ul
+Calibration values: Thermometer 310.9K Tachometer 431.5 pH 3.9 acid added 849.1ul base added 723.7ul
+Calibration values: Thermometer 310.0K Tachometer 435.8 pH 3.9 acid added 850.3ul base added 726.6ul
+Calibration values: Thermometer 309.5K Tachometer 416.9 pH 3.9 acid added 849.9ul base added 731.7ul
+Calibration values: Thermometer 308.4K Tachometer 425.3 pH 3.9 acid added 851.7ul base added 735.4ul
+Calibration values: Thermometer 308.3K Tachometer 425.3 pH 4.0 acid added 849.3ul base added 737.7ul
+Calibration values: Thermometer 307.5K Tachometer 411.2 pH 4.0 acid added 851.2ul base added 743.1ul
+Calibration values: Thermometer 306.7K Tachometer 422.7 pH 4.0 acid added 849.1ul base added 747.8ul
+Calibration values: Thermometer 306.1K Tachometer 427.3 pH 4.0 acid added 850.0ul base added 748.1ul
+Calibration values: Thermometer 306.7K Tachometer 420.5 pH 4.0 acid added 850.4ul base added 754.4ul
+Calibration values: Thermometer 307.4K Tachometer 427.8 pH 4.0 acid added 849.5ul base added 757.5ul
+Calibration values: Thermometer 306.7K Tachometer 433.0 pH 4.1 acid added 848.6ul base added 761.0ul
+Calibration values: Thermometer 307.8K Tachometer 428.2 pH 4.1 acid added 850.5ul base added 764.5ul
+Calibration values: Thermometer 306.8K Tachometer 410.2 pH 4.1 acid added 850.8ul base added 768.1ul
+Calibration values: Thermometer 306.6K Tachometer 433.1 pH 4.1 acid added 850.1ul base added 771.7ul
+Calibration values: Thermometer 310.7K Tachometer 435.8 pH 4.1 acid added 852.0ul base added 774.2ul
+Calibration values: Thermometer 310.2K Tachometer 418.8 pH 4.2 acid added 849.5ul base added 779.7ul
+Calibration values: Thermometer 310.0K Tachometer 435.2 pH 4.2 acid added 850.0ul base added 782.7ul
+Calibration values: Thermometer 308.7K Tachometer 422.4 pH 4.2 acid added 851.9ul base added 783.5ul
+Calibration values: Thermometer 308.6K Tachometer 421.4 pH 4.2 acid added 849.2ul base added 790.6ul
+Calibration values: Thermometer 307.7K Tachometer 423.9 pH 4.2 acid added 850.9ul base added 793.1ul
+Calibration values: Thermometer 307.3K Tachometer 432.6 pH 4.3 acid added 849.5ul base added 796.2ul
+Calibration values: Thermometer 306.9K Tachometer 428.9 pH 4.3 acid added 850.8ul base added 803.3ul
+Calibration values: Thermometer 306.8K Tachometer 404.7 pH 4.3 acid added 851.5ul base added 805.1ul
+Calibration values: Thermometer 306.4K Tachometer 429.6 pH 4.4 acid added 851.3ul base added 806.5ul
+Calibration values: Thermometer 306.8K Tachometer 421.0 pH 4.4 acid added 852.0ul base added 813.9ul
+Calibration values: Thermometer 306.6K Tachometer 438.0 pH 4.5 acid added 851.4ul base added 814.6ul
+Calibration values: Thermometer 306.7K Tachometer 432.4 pH 4.5 acid added 851.7ul base added 819.0ul
+Calibration values: Thermometer 306.6K Tachometer 414.6 pH 4.5 acid added 851.6ul base added 822.4ul
+Calibration values: Thermometer 306.8K Tachometer 411.9 pH 4.6 acid added 852.0ul base added 827.2ul
+Calibration values: Thermometer 306.7K Tachometer 401.5 pH 4.7 acid added 847.9ul base added 830.1ul
+Calibration values: Thermometer 306.8K Tachometer 420.3 pH 4.8 acid added 852.4ul base added 834.4ul
+Calibration values: Thermometer 306.3K Tachometer 401.0 pH 4.9 acid added 851.9ul base added 835.5ul
+Calibration values: Thermometer 306.9K Tachometer 423.5 pH 5.0 acid added 852.0ul base added 839.5ul
+Calibration values: Thermometer 307.0K Tachometer 431.6 pH 5.2 acid added 851.3ul base added 845.5ul
+Calibration values: Thermometer 306.8K Tachometer 426.2 pH 5.6 acid added 851.5ul base added 847.5ul
+Calibration values: Thermometer 307.1K Tachometer 409.6 pH 8.0 acid added 850.4ul base added 852.8ul
+Calibration values: Thermometer 307.1K Tachometer 432.0 pH 8.7 acid added 850.1ul base added 853.3ul
+Calibration values: Thermometer 307.1K Tachometer 446.0 pH 8.9 acid added 851.4ul base added 858.2ul
+Calibration values: Thermometer 306.9K Tachometer 418.0 pH 9.1 acid added 851.6ul base added 863.5ul
+Calibration values: Thermometer 306.9K Tachometer 427.5 pH 9.2 acid added 849.9ul base added 866.2ul
+Calibration values: Thermometer 307.2K Tachometer 434.9 pH 9.3 acid added 850.1ul base added 872.2ul
+Calibration values: Thermometer 306.7K Tachometer 430.4 pH 9.3 acid added 851.1ul base added 873.5ul
+Calibration values: Thermometer 310.5K Tachometer 410.6 pH 9.4 acid added 850.8ul base added 879.6ul
+Calibration values: Thermometer 310.5K Tachometer 422.8 pH 9.5 acid added 850.2ul base added 881.5ul
+Calibration values: Thermometer 310.6K Tachometer 433.2 pH 9.5 acid added 851.1ul base added 884.4ul
+Calibration values: Thermometer 309.2K Tachometer 414.5 pH 9.6 acid added 848.8ul base added 888.2ul
+Calibration values: Thermometer 308.8K Tachometer 421.9 pH 9.6 acid added 848.3ul base added 892.8ul
+Calibration values: Thermometer 307.5K Tachometer 424.1 pH 9.6 acid added 850.0ul base added 895.5ul
+Calibration values: Thermometer 307.0K Tachometer 435.6 pH 9.7 acid added 849.9ul base added 900.3ul
+Calibration values: Thermometer 307.3K Tachometer 427.9 pH 9.7 acid added 851.3ul base added 902.0ul
+Calibration values: Thermometer 306.5K Tachometer 426.0 pH 9.7 acid added 849.9ul base added 906.1ul
+Calibration values: Thermometer 307.1K Tachometer 433.7 pH 9.8 acid added 851.9ul base added 909.4ul
+Calibration values: Thermometer 307.1K Tachometer 404.9 pH 9.8 acid added 850.4ul base added 912.9ul
+Calibration values: Thermometer 307.1K Tachometer 434.1 pH 9.8 acid added 852.2ul base added 916.4ul
+Calibration values: Thermometer 306.8K Tachometer 428.1 pH 9.8 acid added 851.3ul base added 921.8ul
+Calibration values: Thermometer 306.8K Tachometer 411.0 pH 9.9 acid added 850.2ul base added 923.6ul
+Calibration values: Thermometer 306.9K Tachometer 420.8 pH 9.9 acid added 852.4ul base added 928.4ul
+Calibration values: Thermometer 307.1K Tachometer 414.7 pH 9.9 acid added 849.8ul base added 932.9ul
+Calibration values: Thermometer 306.6K Tachometer 430.8 pH 9.9 acid added 848.4ul base added 936.2ul
+Calibration values: Thermometer 306.8K Tachometer 415.3 pH 9.9 acid added 850.0ul base added 941.1ul
+Calibration values: Thermometer 307.1K Tachometer 434.2 pH 10.0 acid added 850.2ul base added 943.5ul
+Calibration values: Thermometer 307.3K Tachometer 425.0 pH 10.0 acid added 850.3ul base added 947.1ul
+Calibration values: Thermometer 306.8K Tachometer 411.8 pH 10.0 acid added 851.3ul base added 950.2ul
+Calibration values: Thermometer 306.4K Tachometer 420.1 pH 10.0 acid added 850.4ul base added 956.9ul
+Calibration values: Thermometer 306.7K Tachometer 421.5 pH 10.0 acid added 850.8ul base added 959.7ul
+Calibration values: Thermometer 307.0K Tachometer 416.5 pH 10.0 acid added 851.7ul base added 962.3ul
+Calibration values: Thermometer 306.6K Tachometer 431.8 pH 10.0 acid added 849.4ul base added 965.1ul
+Calibration values: Thermometer 311.3K Tachometer 427.5 pH 10.1 acid added 851.8ul base added 970.5ul
+Calibration values: Thermometer 310.6K Tachometer 424.2 pH 10.1 acid added 851.2ul base added 973.7ul
+Calibration values: Thermometer 310.0K Tachometer 410.6 pH 10.1 acid added 850.7ul base added 977.7ul
+Calibration values: Thermometer 308.8K Tachometer 429.7 pH 10.1 acid added 851.5ul base added 980.9ul
+Calibration values: Thermometer 308.4K Tachometer 410.6 pH 10.1 acid added 850.3ul base added 982.6ul
+Calibration values: Thermometer 308.0K Tachometer 406.0 pH 10.1 acid added 851.1ul base added 988.4ul
+Calibration values: Thermometer 307.2K Tachometer 404.8 pH 10.1 acid added 849.3ul base added 991.1ul
+Calibration values: Thermometer 307.0K Tachometer 412.0 pH 10.1 acid added 851.3ul base added 995.2ul
+Calibration values: Thermometer 306.5K Tachometer 416.5 pH 10.2 acid added 851.8ul base added 996.1ul
+Calibration values: Thermometer 307.2K Tachometer 425.0 pH 10.2 acid added 849.5ul base added 1001.9ul
+Calibration values: Thermometer 306.1K Tachometer 430.0 pH 10.2 acid added 850.0ul base added 1005.4ul
+Calibration values: Thermometer 306.5K Tachometer 414.7 pH 10.2 acid added 852.8ul base added 1010.3ul
+Calibration values: Thermometer 306.9K Tachometer 428.8 pH 10.2 acid added 850.6ul base added 1013.8ul
+Calibration values: Thermometer 311.4K Tachometer 441.6 pH 10.2 acid added 851.9ul base added 1015.8ul
+Calibration values: Thermometer 310.5K Tachometer 432.4 pH 10.2 acid added 851.9ul base added 1019.1ul
+Calibration values: Thermometer 309.3K Tachometer 421.4 pH 10.2 acid added 850.5ul base added 1027.1ul
+Calibration values: Thermometer 309.2K Tachometer 423.8 pH 10.2 acid added 851.3ul base added 1028.0ul
+Calibration values: Thermometer 309.2K Tachometer 432.8 pH 10.2 acid added 850.8ul base added 1030.1ul
+Calibration values: Thermometer 307.6K Tachometer 405.7 pH 10.3 acid added 852.0ul base added 1033.9ul
+Calibration values: Thermometer 307.0K Tachometer 430.5 pH 10.3 acid added 849.2ul base added 1037.4ul
+Calibration values: Thermometer 306.9K Tachometer 415.7 pH 10.3 acid added 853.0ul base added 1043.8ul
+Calibration values: Thermometer 307.2K Tachometer 429.4 pH 10.3 acid added 851.0ul base added 1046.8ul
+Calibration values: Thermometer 307.7K Tachometer 433.9 pH 10.3 acid added 850.3ul base added 1049.4ul
+Calibration values: Thermometer 306.0K Tachometer 440.9 pH 10.3 acid added 851.1ul base added 1052.6ul
+Calibration values: Thermometer 306.7K Tachometer 421.3 pH 10.3 acid added 851.6ul base added 1055.9ul
+Calibration values: Thermometer 307.2K Tachometer 412.8 pH 10.3 acid added 850.0ul base added 1059.4ul
+Calibration values: Thermometer 307.3K Tachometer 424.1 pH 10.3 acid added 850.1ul base added 1064.2ul
+Calibration values: Thermometer 310.6K Tachometer 426.5 pH 10.3 acid added 850.6ul base added 1067.0ul
+Calibration values: Thermometer 310.7K Tachometer 416.8 pH 10.3 acid added 851.4ul base added 1072.0ul
+Calibration values: Thermometer 310.3K Tachometer 432.4 pH 10.3 acid added 851.0ul base added 1075.9ul
+Calibration values: Thermometer 309.3K Tachometer 422.2 pH 10.4 acid added 850.7ul base added 1080.1ul
+Calibration values: Thermometer 308.8K Tachometer 431.7 pH 10.4 acid added 851.1ul base added 1082.2ul
+Calibration values: Thermometer 308.0K Tachometer 423.7 pH 10.4 acid added 852.4ul base added 1084.8ul
+Calibration values: Thermometer 307.5K Tachometer 433.8 pH 10.4 acid added 851.0ul base added 1088.3ul
+Calibration values: Thermometer 306.8K Tachometer 423.2 pH 10.4 acid added 850.5ul base added 1093.6ul
+Calibration values: Thermometer 306.9K Tachometer 412.2 pH 10.4 acid added 849.2ul base added 1096.6ul
+Calibration values: Thermometer 306.8K Tachometer 428.0 pH 10.4 acid added 850.1ul base added 1101.4ul
+Calibration values: Thermometer 307.4K Tachometer 427.7 pH 10.4 acid added 851.5ul base added 1102.8ul
+Calibration values: Thermometer 306.7K Tachometer 412.3 pH 10.4 acid added 850.7ul base added 1108.7ul
+Calibration values: Thermometer 306.7K Tachometer 433.4 pH 10.4 acid added 851.9ul base added 1112.3ul
+Calibration values: Thermometer 307.6K Tachometer 422.7 pH 10.4 acid added 850.2ul base added 1115.8ul
+Calibration values: Thermometer 306.8K Tachometer 430.9 pH 10.4 acid added 850.1ul base added 1120.8ul
+Calibration values: Thermometer 307.0K Tachometer 410.6 pH 10.4 acid added 851.7ul base added 1122.7ul
+Calibration values: Thermometer 306.9K Tachometer 438.0 pH 10.4 acid added 850.5ul base added 1127.2ul
+Calibration values: Thermometer 307.2K Tachometer 426.0 pH 10.4 acid added 850.5ul base added 1128.6ul
+Calibration values: Thermometer 306.6K Tachometer 405.0 pH 10.4 acid added 850.5ul base added 1133.9ul
+Calibration values: Thermometer 306.3K Tachometer 423.8 pH 10.5 acid added 851.0ul base added 1136.9ul
+Calibration values: Thermometer 307.0K Tachometer 410.4 pH 10.5 acid added 850.8ul base added 1140.3ul
+Calibration values: Thermometer 306.7K Tachometer 418.2 pH 10.5 acid added 849.5ul base added 1146.1ul
+Calibration values: Thermometer 306.7K Tachometer 403.5 pH 10.5 acid added 850.5ul base added 1150.8ul
+Calibration values: Thermometer 306.8K Tachometer 417.2 pH 10.5 acid added 849.9ul base added 1151.9ul
+Calibration values: Thermometer 306.7K Tachometer 406.6 pH 10.5 acid added 850.8ul base added 1155.5ul
+Calibration values: Thermometer 306.4K Tachometer 430.1 pH 10.5 acid added 851.6ul base added 1158.2ul
+Calibration values: Thermometer 307.1K Tachometer 416.0 pH 10.5 acid added 851.0ul base added 1161.3ul
+Calibration values: Thermometer 306.9K Tachometer 424.3 pH 10.5 acid added 851.2ul base added 1166.6ul
+Calibration values: Thermometer 306.3K Tachometer 422.3 pH 10.5 acid added 849.7ul base added 1169.0ul
+Calibration values: Thermometer 306.4K Tachometer 428.0 pH 10.5 acid added 850.3ul base added 1172.4ul
+Calibration values: Thermometer 306.9K Tachometer 426.5 pH 10.5 acid added 849.7ul base added 1177.9ul
+Calibration values: Thermometer 306.9K Tachometer 416.2 pH 10.5 acid added 851.5ul base added 1182.8ul
+Calibration values: Thermometer 307.3K Tachometer 427.7 pH 10.5 acid added 851.7ul base added 1184.2ul
+Calibration values: Thermometer 306.9K Tachometer 430.1 pH 10.5 acid added 851.0ul base added 1187.9ul
+Calibration values: Thermometer 306.8K Tachometer 418.1 pH 10.5 acid added 850.5ul base added 1190.1ul
+Calibration values: Thermometer 306.9K Tachometer 425.8 pH 10.5 acid added 850.1ul base added 1197.3ul
+Calibration values: Thermometer 307.1K Tachometer 423.2 pH 10.5 acid added 849.8ul base added 1200.5ul
+Calibration values: Thermometer 307.1K Tachometer 429.9 pH 10.6 acid added 850.2ul base added 1203.1ul
+
+
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.1
+3.2
+3.1
+3.2
+3.1
+3.1
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.2
+3.3
+3.2
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.3
+3.4
+3.3
+3.4
+3.3
+3.3
+3.4
+3.4
+3.4
+3.4
+3.4
+3.4
+3.4
+3.4
+3.4
+3.4
+3.4
+3.4
+3.4
+3.4
+3.4
+3.4
+3.4
+3.4
+3.4
+3.4
+3.4
+3.4
+3.4
+3.4
+3.5
+3.5
+3.5
+3.5
+3.5
+3.5
+3.5
+3.5
+3.5
+3.5
+3.5
+3.5
+3.5
+3.5
+3.5
+3.5
+3.5
+3.5
+3.5
+3.6
+3.6
+3.6
+3.5
+3.6
+3.6
+3.6
+3.6
+3.6
+3.6
+3.6
+3.6
+3.6
+3.6
+3.6
+3.6
+3.6
+3.6
+3.7
+3.7
+3.7
+3.7
+3.7
+3.7
+3.7
+3.7
+3.7
+3.7
+3.8
+3.7
+3.8
+3.8
+3.8
+3.8
+3.8
+3.8
+3.8
+3.8
+3.8
+3.8
+3.9
+3.9
+3.9
+3.9
+3.9
+3.9
+3.9
+3.9
+4.0
+4.0
+4.0
+4.0
+4.0
+4.0
+4.1
+4.1
+4.1
+4.1
+4.1
+4.2
+4.2
+4.2
+4.2
+4.2
+4.3
+4.3
+4.3
+4.4
+4.4
+4.5
+4.5
+4.5
+4.6
+4.7
+4.8
+4.9
+5.0
+5.2
+5.6
+8.0
+8.7
+8.9
+9.1
+9.2
+9.3
+9.3
+9.4
+9.5
+9.5
+9.6
+9.6
+9.6
+9.7
+9.7
+9.7
+9.8
+9.8
+9.8
+9.8
+9.9
+9.9
+9.9
+9.9
+9.9
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.0
+10.1
+10.1
+10.1
+10.1
+10.1
+10.1
+10.1
+10.1
+10.2
+10.2
+10.2
+10.2
+10.2
+10.2
+10.2
+10.2
+10.2
+10.2
+10.3
+10.3
+10.3
+10.3
+10.3
+10.3
+10.3
+10.3
+10.3
+10.3
+10.3
+10.3
+10.4
+10.4
+10.4
+10.4
+10.4
+10.4
+10.4
+10.4
+10.4
+10.4
+10.4
+10.4
+10.4
+10.4
+10.4
+10.4
+10.5
+10.5
+10.5
+10.5
+10.5
+10.5
+10.5
+10.5
+10.5
+10.5
+10.5
+10.5
+10.5
+10.5
+10.5
+10.5
+10.5
+10.5
+10.6
